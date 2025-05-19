@@ -4,7 +4,7 @@ This repository contains three hands-on projects focused on analyzing different 
 
 ### 📡 Wireshark Projects Included:
 
-1. [HTTP Packet Analysis](./HTTP%20Packet%20Analysis/README.md)  
+1. [Project 1 - HTTP Packet Analysis](./Project%201%20-%20HTTP%20Packet%20Analysis/README.md)  
    Captures and explains the client-server communication process in a standard HTTP web session.
 
 2. [DNS AAAA Query Analysis](./DNS%20AAAA%20Query%20Analysis/README.md)  
