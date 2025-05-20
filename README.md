@@ -1,6 +1,6 @@
 ## **Wireshark Network Analysis Projects**
 
-This repository contains three hands-on projects focused on analyzing different types of network traffic using Wireshark. Each project demonstrates a specific protocol or technique and includes `.pcap` files, screenshots, and analysis notes.
+This repository contains four hands-on projects focused on analyzing different types of network traffic using Wireshark. Each project demonstrates a specific protocol or technique and includes `.pcap` files, screenshots, and analysis notes.
 
 ### 📡 Wireshark Projects Included:
 
@@ -12,6 +12,10 @@ This repository contains three hands-on projects focused on analyzing different 
 
 3. [TCP 3-Way Handshake Deep Dive](./TCP%203-Way%20Handshake%20Deep%20Dive/README.md)  
    Detailed analysis of the TCP connection establishment process using SYN, SYN-ACK, and ACK packets.
+
+4. [ICMP Echo Request and Reply Analysis](./ICMP-Echo-Analysis)
+   Analyzed ICMP traffic using Wireshark to understand how Echo Request and Echo Reply work in `ping` operations.
+
 
 
 ---
